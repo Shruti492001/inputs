@@ -1,1 +1,1 @@
-# inputs
+INPUTS.html
